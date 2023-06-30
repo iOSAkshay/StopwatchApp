@@ -11,7 +11,7 @@ To use the Stopwatch App, follow these steps:
 # Screenshots
 <img width="207" alt="Screenshot 2023-06-30 at 3 13 42 PM" src="https://github.com/iOSAkshay/StopwatchApp/assets/55749217/96f94b73-1bf5-4ab3-9bc7-494cff8001e2">
 
-## Clone the repository: git clone https://github.com/your-username/stopwatch-app.git
+## Clone the repository: git clone https://github.com/iOSAkshay/StopwatchApp.git
 Open the project in your preferred development environment.
 Run the application on a compatible device or simulator.
 Technologies Used
